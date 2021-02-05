@@ -82,7 +82,6 @@ calcOne.show();
 calcOne.makeAction("-", 75);
 calcOne.show();
 
-console.log("\nKalkulator 2: ");
 calcTwo.makeAction("+", 66);
 calcTwo.makeAction("+", 44);
 calcTwo.show();
@@ -95,7 +94,6 @@ calcTwo.show();
 
 // #### Zadanie 3( gra )
 
-console.log("\nZADANIE 3:\n");
 
 let gameOne;
 let gameTwo;
