@@ -94,7 +94,8 @@ const lightFirstElement = (currentColor, elements) => {
   const lightContainer = (currentColor, elements) => {
     elements[0].parentElement.style.backgroundColor = currentColor;
   };
-
+  lightElements();
+  
   //zadanie 6
 
   var elem = document.getElementById('ex6')
